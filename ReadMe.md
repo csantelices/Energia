@@ -1,7 +1,7 @@
-![IMG](http://energia.nu/img/Energia.png)
+> Energia, the fork of the Arduino IDE and SDK for the LaunchPad boards, is no longer maintained. The last release 1.8.10E23 was published in December 2019.
+>
+> The official tools from Texas Instruments are [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO), based on Eclipse with an online variant, and the SimpleLink SDK for the ARM Cortex-M MCUs. 
 
-[![Stories in In Progress](https://badge.waffle.io/energia/energia.png?label=In%20Progress&title=In%20Progress)](https://waffle.io/energia/energia)<br>
-[![Stories in Ready to Commit](https://badge.waffle.io/energia/energia.png?label=Ready%20to%20Commit&title=Ready%20to%20Commit)](https://waffle.io/energia/energia)
 
 
 ## What Is Energia?
